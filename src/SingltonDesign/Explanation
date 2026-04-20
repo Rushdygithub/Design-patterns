@@ -1,0 +1,8 @@
+//Singleton design pattern is ensure that class has one instance and provide globe point to access it.
+//In singleton design pattern
+       1. constructor of the class should be private.
+       2. we need to create one single instance of the class.
+       3. we need to provide a global point of access to that instance.
+//Example of singleton design pattern in java
+      1.DBConnect.
+      2.Logger.
